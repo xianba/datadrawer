@@ -1,14 +1,13 @@
-# datadrawer
-A Fast Tool for Data Processing and Powerful Toolset
-
 Data Drawer
 ===============
+A Fast Tool for Data Processing and Powerful Toolset
 
 Target Users
 --------------
-* financial market analyst of China
-* learners of financial data analysis with pandas/NumPy
-* people who are interested in China financial data
+* Data analysis and statistics
+* Geek programming
+* Data display
+
 Installation
 --------------
     pip install datadrawer
