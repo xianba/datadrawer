@@ -10,4 +10,4 @@ install:
   # 安装依赖 
   
 script: 
-  # python test_stat.py  # 如果有单元测试这里应该执行单元测试 复制代码
+  python test/test_stat.py  # 如果有单元测试这里应该执行单元测试 复制代码
