@@ -9,5 +9,3 @@ install:
   - pip install -r requirements.txt   
   # 安装依赖 
   
-script: 
-  python tests/test_stat.py  # 如果有单元测试这里应该执行单元测试 复制代码
